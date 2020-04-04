@@ -1,3 +1,3 @@
-chaning text in github
+changing text in github
 git text
 editing file
